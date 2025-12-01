@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ranga Venkata Nagasaikumar Singari</h1>
-
+<h1> align="center">Hi 👋, I'm Ranga Venkata Nagasaikumar Singari</h1>
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Linux |Ansible
 <h3 align="center">DevOps Engineer Tata Consultancy Services</h3>
 
 [![Gmail](https://img.shields.io/badge/Email-wwsaikumar150@gamil.com-green?logo=gmail&style=flat)](mailto:wwwsaikumar150@gmail.com)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumar718" alt="saikumar718" /></a> </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kumar-95a01b253/)
 
 ---
 
 I'm a passionate **DevOps Engineer** with over **3 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability in AWS
 
 ---
+### 🧰 Tech Stack
 
-- 💬 Ask me about *Linux,Shell scripting,Terraform, Ansible, Jenkins, Docker, Kubernetes, Prometheus*
+- **Cloud**: AWS
+- **OS**: Linux
+- **CI/CD**: DevOps,Jenkins  
+- **SCM**: GitHub  
+- **IaC**: Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube 
+- **Arifactory**: Nexus 
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Prometheus, Grafana, CloudWatch
 
-- 📫 How to reach me *wwwsaikumar150@gmail.com*
+---
+### 🔧 What I Do
+- 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services  **Docker** and **Kubernetes**, delivering secure and efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **Jenkins** reducing delivery friction  
+- 📃️ Manage codebases and collaboration with **GitHub** ensuring streamlined source control and peer workflows  
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** 
+- 🔐 Secure cloud environments using **IAM**, **RBAC** ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Prometheus**, and **CloudWatch**, minimizing downtime
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+### 💼 Career Snapshot
+
+- 🏢 **Tata Consultancy Services** – * DevOps Engineer*  
+   cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub, Jenkins) on AWS, resulting in a 40% deployment time reduction.
+
+- 🏢 **Tata Consultancy Services** – * System Engineer*  
+  Designed secure cloud infrastructure using AWS. implemented IaC, and improved uptime and efficiency.
+
+---
+
+## ⚙️ Skills Showcase
+
+<p> align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
