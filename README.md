@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ranga Venkata Nagasaikumar Singari</h1>
-🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Linux |Ansible
-<h3 align="center">DevOps Engineer Tata Consultancy Services</h3>
+<h1> align="left">Hi 👋, I'm Ranga Venkata Nagasaikumar Singari</h1>
+DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Linux |Ansible | Shellscripting |
+<h3> align="center">DevOps Engineer Tata Consultancy Services</h3>
 
 [![Gmail](https://img.shields.io/badge/Email-wwsaikumar150@gamil.com-green?logo=gmail&style=flat)](mailto:wwwsaikumar150@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kumar-95a01b253/)
@@ -47,7 +47,7 @@ I'm a passionate **DevOps Engineer** with over **3 years of experience** in buil
 
 ## ⚙️ Skills Showcase
 
-<p align="left">
+<p> align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
