@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ranga Venkata Nagasaikumar Singari</h1>
 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Linux |Ansible | Shellscripting |
-<h3 align="center">DevOps Engineer Tata Consultancy Services</h3>
+<h3 align="left">DevOps Engineer Tata Consultancy Services</h3>
 
 [![Gmail](https://img.shields.io/badge/Email-wwsaikumar150@gamil.com-green?logo=gmail&style=flat)](mailto:wwwsaikumar150@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kumar-95a01b253/)
