@@ -3,7 +3,7 @@ DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Linux |Ansible | Shells
 <h3 align="left">DevOps Engineer Tata Consultancy Services</h3>
 
 [![Gmail](https://img.shields.io/badge/Email-wwsaikumar150@gamil.com-green?logo=gmail&style=flat)](mailto:wwwsaikumar150@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kumar-95a01b253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kumar-95a01b253/) 
 
 ---
 
